@@ -1,0 +1,19 @@
+# Generated data: downloaded raw files, the processed gene expression files, the gene list and logs.
+# (selection/ is NOT ignored: it holds the two lists of the 822 datasets.)
+lake/
+
+# Backup copies of the lists, made before running `select` (it overwrites selection/)
+selection_backup*/
+
+# Python and environment
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Temporary files written while a file is being made
+*.part
+
+# Environment variables and OS noise
+.env
+.DS_Store

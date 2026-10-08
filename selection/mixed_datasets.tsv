@@ -1,0 +1,719 @@
+source	project	group	n_bulk_blood	n_single_cell_blood	n_no_prediction_blood	n_not_blood	bulk_whole_blood	bulk_pbmc	bulk_leukocytes	bulk_bone_marrow	bulk_serum	bulk_plasma	bulk_buffy_coat	bulk_blood_type_not_stated
+SRA	SRP092402	pure bulk	914	0	0	0	0	0	0	0	0	0	0	914
+GTEX	BLOOD	pure bulk	852	0	0	196	852	0	0	0	0	0	0	0
+SRA	SRP056295	pure bulk	519	0	0	6	0	0	0	296	0	0	0	223
+SRA	SRP150552	bulk + single-cell + no prediction	465	17	28	0	465	0	0	0	0	0	0	0
+SRA	SRP144178	bulk + single-cell + no prediction	459	151	1	0	459	0	0	0	0	0	0	0
+SRA	SRP048759	pure bulk	431	0	0	2	0	0	0	203	0	0	0	228
+SRA	SRP098758	bulk + no prediction	419	0	9	0	0	0	0	0	0	0	0	419
+SRA	SRP174638	bulk + single-cell + no prediction	418	41	34	0	418	0	0	0	0	0	0	0
+SRA	SRP192714	bulk + single-cell	395	626	0	0	0	0	0	0	395	0	0	0
+SRA	SRP071965	pure bulk	355	0	0	0	0	0	0	0	0	0	0	355
+SRA	SRP050223	bulk + single-cell	291	1	0	110	0	0	291	0	0	0	0	0
+SRA	SRP057500	bulk + single-cell	288	2	0	0	0	0	0	0	0	0	0	288
+SRA	SRP116272	bulk + single-cell + no prediction	278	560	811	1	0	0	278	0	0	0	0	0
+SRA	SRP059039	bulk + single-cell	251	4	0	0	251	0	0	0	0	0	0	0
+SRA	SRP174223	bulk + single-cell + no prediction	247	23	16	0	247	0	0	0	0	0	0	0
+SRA	SRP162654	pure bulk	240	0	0	0	0	240	0	0	0	0	0	0
+SRA	SRP032775	bulk + no prediction	232	0	1	0	232	0	0	0	0	0	0	0
+SRA	SRP149374	bulk + single-cell + no prediction	229	539	18	0	0	0	0	229	0	0	0	0
+SRA	SRP094424	bulk + single-cell + no prediction	203	1	1	0	0	203	0	0	0	0	0	0
+SRA	SRP126691	bulk + single-cell + no prediction	158	3	14	0	158	0	0	0	0	0	0	0
+SRA	SRP056733	pure bulk	156	0	0	0	0	0	156	0	0	0	0	0
+SRA	SRP033266	pure bulk	144	0	0	0	0	0	0	14	0	0	0	130
+SRA	SRP041675	pure bulk	143	0	0	0	0	0	0	0	0	0	0	143
+SRA	SRP145493	bulk + single-cell + no prediction	143	51	1	0	0	0	0	0	0	0	0	143
+SRA	SRP027358	pure bulk	136	0	0	0	0	0	0	0	0	0	0	136
+SRA	SRP126583	bulk + single-cell + no prediction	135	2	1	0	135	0	0	0	0	0	0	0
+SRA	SRP028567	pure bulk	127	0	0	0	76	0	0	51	0	0	0	0
+TCGA	LAML	pure bulk	126	0	0	52	126	0	0	0	0	0	0	0
+SRA	SRP090282	pure bulk	119	0	0	0	0	119	0	0	0	0	0	0
+SRA	SRP136102	bulk + single-cell	118	2	0	0	118	0	0	0	0	0	0	0
+SRA	SRP155483	bulk + single-cell	115	5	0	0	0	0	115	0	0	0	0	0
+SRA	SRP072920	pure bulk	101	0	0	0	0	101	0	0	0	0	0	0
+SRA	SRP214077	bulk + single-cell	99	1	0	0	99	0	0	0	0	0	0	0
+SRA	SRP081605	bulk + single-cell + no prediction	96	57	37	0	96	0	0	0	0	0	0	0
+SRA	SRP089814	pure bulk	96	0	0	0	0	0	0	0	0	0	0	96
+SRA	SRP049340	pure bulk	90	0	0	76	0	0	90	0	0	0	0	0
+SRA	SRP049605	bulk + single-cell	87	10	0	0	0	87	0	0	0	0	0	0
+SRA	SRP158994	pure bulk	87	0	0	0	0	87	0	0	0	0	0	0
+SRA	SRP090298	bulk + single-cell + no prediction	85	5	4	0	85	0	0	0	0	0	0	0
+SRA	SRP095420	bulk + single-cell + no prediction	85	6	2	0	0	0	0	85	0	0	0	0
+SRA	SRP056197	pure bulk	81	0	0	0	0	0	0	52	0	0	0	29
+SRA	SRP118733	pure bulk	74	0	0	0	0	0	0	74	0	0	0	0
+SRA	SRP042596	pure bulk	72	0	0	0	0	72	0	0	0	0	0	0
+SRA	SRP059057	bulk + single-cell	72	2	0	0	0	0	72	0	0	0	0	0
+SRA	SRP081654	bulk + single-cell	72	13	0	144	0	0	0	23	0	0	0	49
+SRA	SRP162023	bulk + no prediction	72	0	4	0	0	72	0	0	0	0	0	0
+SRA	SRP173842	bulk + no prediction	72	0	1	0	72	0	0	0	0	0	0	0
+SRA	SRP200575	bulk + no prediction	72	0	6	0	0	72	0	0	0	0	0	0
+SRA	SRP099009	bulk + single-cell + no prediction	71	15	12	0	31	0	0	0	0	0	0	40
+SRA	SRP118741	bulk + no prediction	71	0	1	0	0	0	71	0	0	0	0	0
+SRA	SRP132709	bulk + single-cell	65	3	0	0	65	0	0	0	0	0	0	0
+SRA	SRP062144	bulk + single-cell	64	19	0	0	0	0	0	48	0	0	0	16
+SRA	SRP140558	pure bulk	62	0	0	0	0	62	0	0	0	0	0	0
+SRA	SRP201023	bulk + no prediction	62	0	1	0	0	62	0	0	0	0	0	0
+SRA	SRP032279	bulk + single-cell + no prediction	61	5	58	0	61	0	0	0	0	0	0	0
+SRA	ERP020609	bulk + single-cell + no prediction	60	16	3	0	0	0	60	0	0	0	0	0
+SRA	SRP074736	pure bulk	60	0	0	0	0	60	0	0	0	0	0	0
+SRA	SRP132968	pure bulk	60	0	0	0	0	0	0	60	0	0	0	0
+SRA	SRP136108	bulk + single-cell	59	5	0	80	59	0	0	0	0	0	0	0
+SRA	SRP182096	bulk + no prediction	59	0	3	0	0	59	0	0	0	0	0	0
+SRA	ERP009768	pure bulk	58	0	0	0	0	0	0	0	0	0	0	58
+SRA	SRP032926	pure bulk	57	0	0	0	0	0	0	0	0	0	0	57
+SRA	SRP183186	bulk + single-cell	57	2	0	0	0	0	0	0	0	0	0	57
+SRA	SRP122507	bulk + no prediction	56	0	1	0	0	0	0	39	0	0	0	17
+SRA	SRP150777	bulk + single-cell + no prediction	56	1	2	0	0	0	0	56	0	0	0	0
+SRA	SRP081020	pure bulk	55	0	0	0	0	55	0	0	0	0	0	0
+SRA	SRP162774	bulk + single-cell + no prediction	55	851	5	0	0	55	0	0	0	0	0	0
+SRA	SRP020491	bulk + single-cell	54	1	0	0	0	0	54	0	0	0	0	0
+SRA	SRP028594	pure bulk	54	0	0	0	0	0	0	23	0	0	0	31
+SRA	SRP212077	pure bulk	54	0	0	0	0	54	0	0	0	0	0	0
+SRA	SRP133673	bulk + single-cell + no prediction	53	7	1	0	28	0	0	25	0	0	0	0
+SRA	SRP187984	bulk + single-cell + no prediction	53	41	4	0	53	0	0	0	0	0	0	0
+SRA	SRP126417	bulk + single-cell + no prediction	51	21	7	0	0	0	0	0	0	0	0	51
+SRA	SRP151577	pure bulk	51	0	0	0	0	0	51	0	0	0	0	0
+SRA	SRP163027	bulk + single-cell	50	1	0	0	50	0	0	0	0	0	0	0
+SRA	SRP095405	pure bulk	49	0	0	8	49	0	0	0	0	0	0	0
+SRA	SRP045352	bulk + single-cell	48	8	0	0	30	0	0	0	0	0	0	18
+SRA	SRP051368	pure bulk	48	0	0	0	0	0	48	0	0	0	0	0
+SRA	SRP097893	bulk + single-cell	48	2	0	0	0	0	48	0	0	0	0	0
+SRA	SRP139891	bulk + no prediction	48	0	1	0	48	0	0	0	0	0	0	0
+SRA	SRP144363	bulk + single-cell	48	16	0	0	0	0	0	0	0	0	0	48
+SRA	SRP040547	bulk + no prediction	47	0	33	143	47	0	0	0	0	0	0	0
+SRA	SRP041036	bulk + single-cell + no prediction	47	12	1	0	29	0	0	18	0	0	0	0
+SRA	SRP221482	bulk + single-cell + no prediction	47	57	7	0	0	0	0	0	0	0	0	47
+SRA	SRP060362	pure bulk	45	0	0	24	45	0	0	0	0	0	0	0
+SRA	SRP132939	bulk + single-cell + no prediction	45	6	1	0	45	0	0	0	0	0	0	0
+SRA	SRP162879	bulk + single-cell	45	3	0	0	0	0	0	0	0	0	0	45
+SRA	SRP115480	pure bulk	44	0	0	0	0	44	0	0	0	0	0	0
+SRA	SRP126582	bulk + no prediction	44	0	3	0	44	0	0	0	0	0	0	0
+SRA	SRP078152	bulk + single-cell	43	41	0	0	0	0	43	0	0	0	0	0
+SRA	SRP032455	bulk + single-cell + no prediction	41	26	1	0	41	0	0	0	0	0	0	0
+SRA	SRP034732	bulk + single-cell	41	6	0	0	0	0	0	0	0	0	0	41
+SRA	SRP123014	pure bulk	41	0	0	0	0	0	0	0	0	0	0	41
+SRA	SRP132197	bulk + single-cell	41	21	0	0	0	0	0	0	0	0	41	0
+SRA	SRP134018	bulk + single-cell + no prediction	41	1	1	0	41	0	0	0	0	0	0	0
+SRA	SRP051688	bulk + single-cell + no prediction	40	7	1	8	0	8	32	0	0	0	0	0
+SRA	SRP101726	pure bulk	39	0	0	0	0	0	39	0	0	0	0	0
+SRA	SRP125882	bulk + no prediction	39	0	1	0	0	39	0	0	0	0	0	0
+SRA	SRP157965	bulk + single-cell	39	5	0	19	0	7	27	5	0	0	0	0
+SRA	SRP094502	bulk + single-cell	38	8	0	0	0	38	0	0	0	0	0	0
+SRA	SRP099676	bulk + no prediction	38	0	1	0	0	38	0	0	0	0	0	0
+SRA	SRP062170	bulk + single-cell	37	40	0	0	0	0	0	37	0	0	0	0
+SRA	SRP067924	pure bulk	37	0	0	2	0	0	0	37	0	0	0	0
+SRA	SRP101737	bulk + single-cell	37	1	0	0	37	0	0	0	0	0	0	0
+SRA	SRP133941	pure bulk	37	0	0	0	0	37	0	0	0	0	0	0
+SRA	SRP193940	bulk + no prediction	37	0	3	0	37	0	0	0	0	0	0	0
+SRA	SRP132460	pure bulk	36	0	0	0	0	36	0	0	0	0	0	0
+SRA	SRP161505	pure bulk	36	0	0	0	0	36	0	0	0	0	0	0
+SRA	SRP186274	pure bulk	36	0	0	0	0	36	0	0	0	0	0	0
+SRA	SRP005279	bulk + single-cell	35	1	0	0	8	0	0	27	0	0	0	0
+SRA	SRP041826	bulk + single-cell	35	5	0	0	0	0	35	0	0	0	0	0
+SRA	SRP071547	bulk + single-cell + no prediction	35	29	1	30	0	0	35	0	0	0	0	0
+SRA	SRP109578	pure bulk	35	0	0	0	0	35	0	0	0	0	0	0
+SRA	SRP110609	bulk + single-cell + no prediction	35	27	2	0	0	35	0	0	0	0	0	0
+SRA	SRP056784	bulk + no prediction	34	0	1	0	34	0	0	0	0	0	0	0
+SRA	SRP078912	pure bulk	34	0	0	0	0	0	34	0	0	0	0	0
+SRA	SRP092544	bulk + single-cell + no prediction	34	132	6	0	0	0	0	0	0	0	0	34
+SRA	SRP100643	pure bulk	34	0	0	0	0	0	34	0	0	0	0	0
+SRA	SRP017262	bulk + single-cell + no prediction	33	5	5	0	6	0	0	27	0	0	0	0
+SRA	SRP133205	bulk + single-cell	33	34	0	0	0	0	33	0	0	0	0	0
+SRA	SRP067631	bulk + single-cell	32	1	0	0	0	0	0	32	0	0	0	0
+SRA	SRP116937	pure bulk	32	0	0	0	0	0	32	0	0	0	0	0
+SRA	SRP151000	pure bulk	32	0	0	0	0	32	0	0	0	0	0	0
+SRA	SRP123611	bulk + single-cell	31	1	0	0	0	0	31	0	0	0	0	0
+SRA	SRP187088	pure bulk	31	0	0	0	0	0	0	31	0	0	0	0
+SRA	SRP021085	pure bulk	30	0	0	0	0	0	0	0	0	0	0	30
+SRA	SRP041955	bulk + single-cell + no prediction	30	8	2	0	0	30	0	0	0	0	0	0
+SRA	SRP125233	bulk + single-cell + no prediction	30	1	2	0	30	0	0	0	0	0	0	0
+SRA	SRP132699	pure bulk	30	0	0	0	0	30	0	0	0	0	0	0
+SRA	SRP200058	bulk + single-cell + no prediction	29	787	6	1022	0	29	0	0	0	0	0	0
+SRA	SRP042153	pure bulk	28	0	0	0	0	0	0	0	0	0	0	28
+SRA	SRP073501	bulk + single-cell	28	2	0	0	0	0	0	0	0	0	0	28
+SRA	SRP090337	bulk + no prediction	28	0	1	0	0	28	0	0	0	0	0	0
+SRA	SRP145599	bulk + single-cell	28	105	0	0	0	0	28	0	0	0	0	0
+SRA	SRP154414	pure bulk	28	0	0	0	0	0	0	0	0	0	0	28
+SRA	SRP053186	pure bulk	27	0	0	0	0	0	27	0	0	0	0	0
+SRA	SRP075717	bulk + single-cell	27	1	0	0	0	0	0	0	0	0	0	27
+SRA	SRP133278	bulk + single-cell + no prediction	27	4	17	0	0	0	27	0	0	0	0	0
+SRA	SRP144003	bulk + single-cell + no prediction	27	7	1	71	0	0	27	0	0	0	0	0
+SRA	SRP156762	bulk + single-cell + no prediction	27	28	9	0	0	0	27	0	0	0	0	0
+SRA	SRP189352	pure bulk	27	0	0	0	0	0	0	27	0	0	0	0
+SRA	SRP200094	pure bulk	27	0	0	0	0	0	0	0	0	0	0	27
+SRA	SRP219272	bulk + single-cell + no prediction	27	1	5	0	27	0	0	0	0	0	0	0
+SRA	SRP041885	pure bulk	26	0	0	27	0	0	0	0	0	0	0	26
+SRA	SRP140711	pure bulk	26	0	0	0	0	26	0	0	0	0	0	0
+SRA	SRP168421	pure bulk	26	0	0	0	0	26	0	0	0	0	0	0
+SRA	SRP200059	bulk + single-cell	26	1	0	1	26	0	0	0	0	0	0	0
+SRA	SRP063493	bulk + no prediction	25	0	2	39	0	0	0	25	0	0	0	0
+SRA	SRP132971	pure bulk	25	0	0	0	0	0	0	25	0	0	0	0
+SRA	SRP145508	pure bulk	25	0	0	0	0	0	25	0	0	0	0	0
+SRA	SRP216293	bulk + single-cell + no prediction	25	42	1	112	0	0	25	0	0	0	0	0
+SRA	SRP051819	bulk + single-cell + no prediction	24	4	1	2	0	0	0	24	0	0	0	0
+SRA	SRP060605	pure bulk	24	0	0	0	0	0	0	0	0	0	0	24
+SRA	SRP067661	pure bulk	24	0	0	0	0	0	0	0	0	0	0	24
+SRA	SRP069333	pure bulk	24	0	0	0	0	0	24	0	0	0	0	0
+SRA	SRP071332	pure bulk	24	0	0	0	0	24	0	0	0	0	0	0
+SRA	SRP100639	pure bulk	24	0	0	0	0	0	24	0	0	0	0	0
+SRA	SRP114371	pure bulk	24	0	0	0	0	24	0	0	0	0	0	0
+SRA	SRP116140	bulk + single-cell	24	12	0	0	0	0	24	0	0	0	0	0
+SRA	SRP198749	pure bulk	24	0	0	0	0	0	0	0	0	0	0	24
+SRA	SRP221351	pure bulk	24	0	0	0	0	24	0	0	0	0	0	0
+SRA	SRP222535	pure bulk	24	0	0	0	0	0	0	0	0	0	0	24
+SRA	SRP086245	bulk + single-cell + no prediction	23	11	8	0	0	0	23	0	0	0	0	0
+SRA	SRP126623	bulk + single-cell	23	1	0	0	0	0	0	0	0	0	0	23
+SRA	SRP183096	bulk + no prediction	23	0	1	0	23	0	0	0	0	0	0	0
+SRA	SRP045569	pure bulk	22	0	0	0	0	22	0	0	0	0	0	0
+SRA	SRP092457	bulk + single-cell	22	1	0	0	0	0	0	0	0	0	0	22
+SRA	SRP110313	bulk + no prediction	22	0	2	0	0	0	22	0	0	0	0	0
+SRA	SRP115408	pure bulk	22	0	0	0	0	0	0	0	0	0	0	22
+SRA	SRP162414	bulk + single-cell + no prediction	22	579	111	0	0	0	0	0	0	0	0	22
+SRA	SRP194387	bulk + single-cell	22	2	0	0	0	0	22	0	0	0	0	0
+SRA	SRP059322	pure bulk	21	0	0	0	0	21	0	0	0	0	0	0
+SRA	SRP059959	bulk + single-cell + no prediction	21	24	13	0	0	0	21	0	0	0	0	0
+SRA	SRP077469	bulk + single-cell	21	3	0	0	0	0	21	0	0	0	0	0
+SRA	SRP111800	pure bulk	21	0	0	0	0	0	21	0	0	0	0	0
+SRA	SRP116113	pure bulk	21	0	0	0	0	0	21	0	0	0	0	0
+SRA	SRP135822	bulk + single-cell	21	1	0	0	21	0	0	0	0	0	0	0
+SRA	SRP136156	pure bulk	21	0	0	0	0	0	0	15	0	0	0	6
+SRA	SRP142489	bulk + single-cell	21	2	0	0	0	0	0	21	0	0	0	0
+SRA	SRP165733	pure bulk	21	0	0	0	0	21	0	0	0	0	0	0
+SRA	SRP183090	pure bulk	21	0	0	0	0	0	21	0	0	0	0	0
+SRA	SRP197235	pure bulk	21	0	0	0	0	0	0	21	0	0	0	0
+SRA	SRP008976	bulk + no prediction	20	0	5	0	0	0	0	0	0	0	0	20
+SRA	SRP058414	bulk + single-cell + no prediction	20	5	2	0	0	0	20	0	0	0	0	0
+SRA	SRP067090	bulk + single-cell + no prediction	20	1	3	0	0	0	20	0	0	0	0	0
+SRA	SRP078071	pure bulk	20	0	0	0	0	0	20	0	0	0	0	0
+SRA	SRP083137	bulk + single-cell	20	4	0	0	0	0	0	20	0	0	0	0
+SRA	SRP091714	pure bulk	20	0	0	0	0	0	20	0	0	0	0	0
+SRA	SRP098651	bulk + single-cell	20	4	0	0	0	0	0	20	0	0	0	0
+SRA	SRP111818	bulk + single-cell	20	4	0	0	0	0	20	0	0	0	0	0
+SRA	SRP151274	pure bulk	20	0	0	0	0	20	0	0	0	0	0	0
+SRA	SRP162500	bulk + single-cell + no prediction	20	623	123	0	0	0	0	0	0	0	0	20
+SRA	SRP188959	pure bulk	20	0	0	0	11	0	0	9	0	0	0	0
+SRA	SRP213631	pure bulk	20	0	0	0	0	0	20	0	0	0	0	0
+SRA	SRP040328	pure bulk	19	0	0	0	0	19	0	0	0	0	0	0
+SRA	SRP061639	bulk + single-cell	19	9	0	0	0	0	19	0	0	0	0	0
+SRA	SRP076627	bulk + no prediction	19	0	2	0	0	0	19	0	0	0	0	0
+SRA	SRP090241	bulk + single-cell	19	13	0	0	0	0	19	0	0	0	0	0
+SRA	SRP126344	bulk + no prediction	19	0	1	0	19	0	0	0	0	0	0	0
+SRA	SRP133789	bulk + single-cell	19	1	0	88	19	0	0	0	0	0	0	0
+SRA	SRP149794	bulk + single-cell + no prediction	19	147	2	0	0	0	5	14	0	0	0	0
+SRA	SRP163222	pure bulk	19	0	0	0	0	0	0	0	0	0	0	19
+SRA	SRP169062	bulk + single-cell	19	25	0	0	0	0	19	0	0	0	0	0
+SRA	DRP001150	bulk + no prediction	18	0	9	43	0	0	0	0	0	0	0	18
+SRA	ERP018533	pure bulk	18	0	0	6	0	0	18	0	0	0	0	0
+SRA	SRP029739	pure bulk	18	0	0	0	0	0	18	0	0	0	0	0
+SRA	SRP047323	pure bulk	18	0	0	0	0	0	0	0	0	0	0	18
+SRA	SRP093249	pure bulk	18	0	0	0	0	0	18	0	0	0	0	0
+SRA	SRP093990	bulk + single-cell + no prediction	18	23	16	0	0	0	0	0	0	0	0	18
+SRA	SRP101784	bulk + single-cell + no prediction	18	96	5	0	18	0	0	0	0	0	0	0
+SRA	SRP116955	pure bulk	18	0	0	0	0	0	0	0	0	0	0	18
+SRA	SRP119895	pure bulk	18	0	0	0	0	0	0	0	0	18	0	0
+SRA	SRP131480	bulk + no prediction	18	0	12	0	0	0	0	0	0	0	0	18
+SRA	SRP155573	pure bulk	18	0	0	0	0	0	18	0	0	0	0	0
+SRA	SRP158127	bulk + single-cell + no prediction	18	3	1	0	0	0	18	0	0	0	0	0
+SRA	SRP173379	bulk + no prediction	18	0	1	0	0	0	18	0	0	0	0	0
+SRA	SRP179743	pure bulk	18	0	0	0	0	0	0	18	0	0	0	0
+SRA	SRP187077	pure bulk	18	0	0	0	0	0	18	0	0	0	0	0
+SRA	SRP063355	pure bulk	17	0	0	0	0	0	0	0	0	0	0	17
+SRA	SRP098644	bulk + single-cell	17	1	0	0	0	0	17	0	0	0	0	0
+SRA	SRP116284	bulk + single-cell + no prediction	17	14	3	0	17	0	0	0	0	0	0	0
+SRA	SRP118909	bulk + no prediction	17	0	1	0	17	0	0	0	0	0	0	0
+SRA	SRP132711	pure bulk	17	0	0	6	0	0	0	17	0	0	0	0
+SRA	SRP162411	bulk + single-cell + no prediction	17	601	147	0	0	0	0	0	0	0	0	17
+SRA	SRP173390	bulk + single-cell	17	21	0	0	17	0	0	0	0	0	0	0
+SRA	SRP047122	bulk + single-cell	16	3	0	0	16	0	0	0	0	0	0	0
+SRA	SRP050493	pure bulk	16	0	0	6	0	0	0	16	0	0	0	0
+SRA	SRP063973	pure bulk	16	0	0	0	0	0	0	0	0	0	0	16
+SRA	SRP082274	pure bulk	16	0	0	0	0	0	0	0	0	0	0	16
+SRA	SRP094482	pure bulk	16	0	0	0	0	0	0	0	0	0	0	16
+SRA	SRP113321	pure bulk	16	0	0	0	0	0	0	0	0	0	0	16
+SRA	SRP155036	bulk + single-cell + no prediction	16	25	1	0	0	16	0	0	0	0	0	0
+SRA	SRP169085	bulk + single-cell	16	17	0	0	16	0	0	0	0	0	0	0
+SRA	SRP181114	pure bulk	16	0	0	0	0	0	0	0	0	0	0	16
+SRA	ERP024587	bulk + no prediction	15	0	1	0	15	0	0	0	0	0	0	0
+SRA	SRP002105	pure bulk	15	0	0	0	0	0	15	0	0	0	0	0
+SRA	SRP073191	bulk + single-cell	15	1	0	0	0	0	0	0	0	0	0	15
+SRA	SRP073206	bulk + single-cell	15	5	0	0	0	0	15	0	0	0	0	0
+SRA	SRP075805	pure bulk	15	0	0	0	0	0	15	0	0	0	0	0
+SRA	SRP078441	bulk + single-cell	15	1	0	0	4	0	0	11	0	0	0	0
+SRA	SRP094007	pure bulk	15	0	0	0	0	0	15	0	0	0	0	0
+SRA	SRP094125	pure bulk	15	0	0	0	0	0	15	0	0	0	0	0
+SRA	SRP098715	bulk + single-cell + no prediction	15	57	6	3	0	0	15	0	0	0	0	0
+SRA	SRP114762	bulk + no prediction	15	0	3	0	0	0	15	0	0	0	0	0
+SRA	SRP118127	bulk + single-cell	15	1	0	0	0	0	15	0	0	0	0	0
+SRA	SRP132160	pure bulk	15	0	0	0	0	0	0	0	0	0	0	15
+SRA	SRP133247	pure bulk	15	0	0	0	0	0	0	0	0	0	0	15
+SRA	SRP136483	bulk + single-cell + no prediction	15	1	6	0	15	0	0	0	0	0	0	0
+SRA	SRP150315	bulk + no prediction	15	0	1	0	0	0	0	15	0	0	0	0
+SRA	SRP161549	pure bulk	15	0	0	0	0	15	0	0	0	0	0	0
+SRA	SRP161691	pure bulk	15	0	0	0	0	0	15	0	0	0	0	0
+SRA	SRP163252	bulk + single-cell + no prediction	15	1	1	146	6	0	0	9	0	0	0	0
+SRA	SRP169610	pure bulk	15	0	0	0	0	15	0	0	0	0	0	0
+SRA	SRP189872	pure bulk	15	0	0	0	0	0	15	0	0	0	0	0
+SRA	SRP190149	bulk + single-cell	15	7	0	0	0	0	15	0	0	0	0	0
+SRA	SRP048701	bulk + single-cell	14	2	0	0	0	0	0	0	0	0	0	14
+SRA	SRP048820	pure bulk	14	0	0	0	2	0	12	0	0	0	0	0
+SRA	SRP058953	pure bulk	14	0	0	0	0	0	14	0	0	0	0	0
+SRA	SRP061184	bulk + single-cell	14	1	0	1	14	0	0	0	0	0	0	0
+SRA	SRP061614	pure bulk	14	0	0	0	0	0	0	14	0	0	0	0
+SRA	SRP071170	pure bulk	14	0	0	0	0	14	0	0	0	0	0	0
+SRA	SRP078495	pure bulk	14	0	0	0	0	0	0	14	0	0	0	0
+SRA	SRP095109	bulk + single-cell	14	10	0	0	0	14	0	0	0	0	0	0
+SRA	SRP162958	pure bulk	14	0	0	0	0	14	0	0	0	0	0	0
+SRA	SRP188973	pure bulk	14	0	0	0	0	0	14	0	0	0	0	0
+SRA	ERP114480	bulk + single-cell	13	1	0	4	0	0	13	0	0	0	0	0
+SRA	SRP065216	bulk + single-cell	13	36	0	33	0	0	0	0	0	0	0	13
+SRA	SRP065445	pure bulk	13	0	0	0	0	0	0	0	0	0	0	13
+SRA	SRP094423	bulk + single-cell	13	2	0	0	0	13	0	0	0	0	0	0
+SRA	SRP099568	bulk + no prediction	13	0	19	0	13	0	0	0	0	0	0	0
+SRA	SRP110347	bulk + no prediction	13	0	1	0	13	0	0	0	0	0	0	0
+SRA	SRP113492	bulk + single-cell + no prediction	13	4	1	61	0	0	13	0	0	0	0	0
+SRA	SRP132102	pure bulk	13	0	0	0	0	0	0	0	0	0	13	0
+SRA	SRP135512	pure bulk	13	0	0	2	0	13	0	0	0	0	0	0
+SRA	SRP155941	bulk + single-cell + no prediction	13	49	40	22	0	0	0	0	0	0	0	13
+SRA	SRP007461	pure bulk	12	0	0	191	0	0	12	0	0	0	0	0
+SRA	SRP028554	pure bulk	12	0	0	0	0	0	0	6	0	0	0	6
+SRA	SRP045355	pure bulk	12	0	0	26	0	12	0	0	0	0	0	0
+SRA	SRP046233	bulk + single-cell	12	2	0	0	0	0	0	12	0	0	0	0
+SRA	SRP048957	pure bulk	12	0	0	0	0	0	0	12	0	0	0	0
+SRA	SRP061932	pure bulk	12	0	0	0	0	0	0	0	0	0	0	12
+SRA	SRP087753	pure bulk	12	0	0	0	0	12	0	0	0	0	0	0
+SRA	SRP092061	pure bulk	12	0	0	6	0	0	0	12	0	0	0	0
+SRA	SRP094565	pure bulk	12	0	0	12	0	0	0	12	0	0	0	0
+SRA	SRP095538	bulk + no prediction	12	0	3	0	12	0	0	0	0	0	0	0
+SRA	SRP097630	pure bulk	12	0	0	0	0	0	0	0	0	0	0	12
+SRA	SRP110991	bulk + single-cell	12	2	0	0	0	12	0	0	0	0	0	0
+SRA	SRP111184	bulk + single-cell	12	2	0	0	12	0	0	0	0	0	0	0
+SRA	SRP113226	bulk + no prediction	12	0	3	0	0	12	0	0	0	0	0	0
+SRA	SRP115911	pure bulk	12	0	0	0	8	0	0	4	0	0	0	0
+SRA	SRP116954	pure bulk	12	0	0	0	0	0	0	0	0	0	0	12
+SRA	SRP125822	pure bulk	12	0	0	0	0	0	0	12	0	0	0	0
+SRA	SRP131252	pure bulk	12	0	0	0	0	0	12	0	0	0	0	0
+SRA	SRP149530	pure bulk	12	0	0	0	0	12	0	0	0	0	0	0
+SRA	SRP150650	bulk + no prediction	12	0	4	0	12	0	0	0	0	0	0	0
+SRA	SRP156452	bulk + single-cell + no prediction	12	23	131	0	0	0	0	0	0	0	0	12
+SRA	SRP159180	pure bulk	12	0	0	0	0	0	0	12	0	0	0	0
+SRA	SRP166095	pure bulk	12	0	0	0	0	0	12	0	0	0	0	0
+SRA	SRP167677	pure bulk	12	0	0	0	0	0	0	0	0	0	0	12
+SRA	SRP169851	pure bulk	12	0	0	0	0	0	12	0	0	0	0	0
+SRA	SRP199640	bulk + single-cell	12	12	0	0	0	0	0	12	0	0	0	0
+SRA	SRP212755	bulk + single-cell + no prediction	12	174	315	0	0	0	0	0	0	12	0	0
+SRA	SRP055474	bulk + no prediction	11	0	1	0	0	11	0	0	0	0	0	0
+SRA	SRP058948	bulk + no prediction	11	0	2	0	0	0	0	0	0	0	0	11
+SRA	SRP059205	bulk + single-cell + no prediction	11	2	2	5	0	6	0	2	0	0	0	3
+SRA	SRP068057	bulk + single-cell	11	1	0	0	0	0	0	0	0	0	0	11
+SRA	SRP080943	bulk + no prediction	11	0	1	0	0	0	11	0	0	0	0	0
+SRA	SRP093834	pure bulk	11	0	0	0	0	0	0	0	0	0	0	11
+SRA	SRP126923	bulk + no prediction	11	0	3	5	11	0	0	0	0	0	0	0
+SRA	SRP158591	pure bulk	11	0	0	0	6	5	0	0	0	0	0	0
+SRA	SRP166055	bulk + no prediction	11	0	1	0	0	0	0	0	0	0	0	11
+SRA	SRP168212	pure bulk	11	0	0	0	0	11	0	0	0	0	0	0
+SRA	SRP186088	bulk + single-cell	11	1	0	0	0	0	0	0	0	0	0	11
+SRA	SRP191537	bulk + single-cell	11	1	0	0	0	0	11	0	0	0	0	0
+SRA	SRP193787	bulk + single-cell	11	13	0	0	11	0	0	0	0	0	0	0
+SRA	SRP199210	bulk + no prediction	11	0	1	0	0	0	11	0	0	0	0	0
+SRA	ERP117136	pure bulk	10	0	0	0	0	0	10	0	0	0	0	0
+SRA	SRP022362	bulk + single-cell	10	1	0	4	0	0	0	0	0	0	0	10
+SRA	SRP034736	pure bulk	10	0	0	4	0	0	0	0	0	0	0	10
+SRA	SRP040275	pure bulk	10	0	0	0	0	0	10	0	0	0	0	0
+SRA	SRP043339	pure bulk	10	0	0	0	0	0	10	0	0	0	0	0
+SRA	SRP076902	pure bulk	10	0	0	0	0	10	0	0	0	0	0	0
+SRA	SRP095512	pure bulk	10	0	0	0	0	0	0	0	0	0	0	10
+SRA	SRP118694	bulk + single-cell	10	2	0	0	10	0	0	0	0	0	0	0
+SRA	SRP126825	pure bulk	10	0	0	0	0	0	0	10	0	0	0	0
+SRA	SRP127016	bulk + no prediction	10	0	6	0	10	0	0	0	0	0	0	0
+SRA	SRP144588	bulk + single-cell	10	86	0	0	0	0	0	0	0	0	0	10
+SRA	SRP155704	bulk + single-cell	10	14	0	0	0	10	0	0	0	0	0	0
+SRA	SRP158628	bulk + single-cell	10	2	0	0	0	0	0	10	0	0	0	0
+SRA	SRP161171	bulk + no prediction	10	0	6	0	0	10	0	0	0	0	0	0
+SRA	SRP165626	bulk + no prediction	10	0	5	0	0	0	10	0	0	0	0	0
+SRA	SRP166559	pure bulk	10	0	0	0	0	0	10	0	0	0	0	0
+SRA	SRP176434	bulk + no prediction	10	0	2	0	0	0	0	0	0	0	0	10
+SRA	SRP187764	pure bulk	10	0	0	0	0	0	0	10	0	0	0	0
+SRA	SRP189956	bulk + single-cell + no prediction	10	5	1	0	10	0	0	0	0	0	0	0
+SRA	SRP193115	pure bulk	10	0	0	0	0	0	10	0	0	0	0	0
+SRA	SRP197074	bulk + single-cell + no prediction	10	1	21	0	0	0	10	0	0	0	0	0
+SRA	SRP053046	pure bulk	9	0	0	0	0	0	9	0	0	0	0	0
+SRA	SRP061539	pure bulk	9	0	0	0	0	0	0	9	0	0	0	0
+SRA	SRP065795	pure bulk	9	0	0	0	0	0	0	0	0	0	0	9
+SRA	SRP076073	pure bulk	9	0	0	0	0	0	0	0	0	0	0	9
+SRA	SRP078166	pure bulk	9	0	0	0	0	9	0	0	0	0	0	0
+SRA	SRP082227	pure bulk	9	0	0	0	0	0	0	9	0	0	0	0
+SRA	SRP100936	pure bulk	9	0	0	0	0	9	0	0	0	0	0	0
+SRA	SRP115151	pure bulk	9	0	0	0	0	0	9	0	0	0	0	0
+SRA	SRP115606	pure bulk	9	0	0	9	9	0	0	0	0	0	0	0
+SRA	SRP117885	bulk + single-cell + no prediction	9	11	2	0	0	0	0	0	0	0	0	9
+SRA	SRP118804	bulk + single-cell + no prediction	9	2	1	0	0	0	0	0	0	0	0	9
+SRA	SRP125988	pure bulk	9	0	0	0	0	9	0	0	0	0	0	0
+SRA	SRP132924	pure bulk	9	0	0	0	0	0	9	0	0	0	0	0
+SRA	SRP140710	bulk + single-cell + no prediction	9	10	4	0	0	0	9	0	0	0	0	0
+SRA	SRP158900	bulk + single-cell	9	31	0	0	0	9	0	0	0	0	0	0
+SRA	SRP159081	bulk + single-cell	9	1	0	0	0	0	0	0	0	0	0	9
+SRA	SRP163900	bulk + single-cell	9	43	0	35	0	0	9	0	0	0	0	0
+SRA	SRP201603	pure bulk	9	0	0	0	0	0	0	0	0	0	0	9
+SRA	SRP215282	bulk + single-cell + no prediction	9	19	56	0	0	9	0	0	0	0	0	0
+SRA	ERP111310	bulk + single-cell + no prediction	8	2	14	0	0	0	8	0	0	0	0	0
+SRA	SRP007881	pure bulk	8	0	0	0	0	0	0	8	0	0	0	0
+SRA	SRP020556	pure bulk	8	0	0	3	0	0	0	8	0	0	0	0
+SRA	SRP021509	pure bulk	8	0	0	35	0	0	8	0	0	0	0	0
+SRA	SRP029603	pure bulk	8	0	0	0	0	0	0	8	0	0	0	0
+SRA	SRP035312	bulk + single-cell + no prediction	8	6	1	0	0	0	0	0	0	0	0	8
+SRA	SRP045207	bulk + single-cell + no prediction	8	1	2	0	0	0	0	0	0	0	0	8
+SRA	SRP048640	pure bulk	8	0	0	0	0	0	8	0	0	0	0	0
+SRA	SRP048858	bulk + single-cell	8	2	0	0	0	0	0	8	0	0	0	0
+SRA	SRP056435	pure bulk	8	0	0	0	0	8	0	0	0	0	0	0
+SRA	SRP066242	bulk + single-cell	8	2	0	0	0	0	0	0	0	0	0	8
+SRA	SRP069884	bulk + single-cell + no prediction	8	21	11	0	0	0	8	0	0	0	0	0
+SRA	SRP073331	bulk + single-cell	8	6	0	7	0	0	8	0	0	0	0	0
+SRA	SRP076277	pure bulk	8	0	0	20	0	0	8	0	0	0	0	0
+SRA	SRP086613	bulk + single-cell	8	22	0	0	0	8	0	0	0	0	0	0
+SRA	SRP090251	bulk + single-cell	8	5	0	0	8	0	0	0	0	0	0	0
+SRA	SRP092075	bulk + no prediction	8	0	1	34	0	0	8	0	0	0	0	0
+SRA	SRP093266	pure bulk	8	0	0	0	0	0	0	8	0	0	0	0
+SRA	SRP113550	pure bulk	8	0	0	6	0	0	8	0	0	0	0	0
+SRA	SRP117034	pure bulk	8	0	0	4	2	0	0	6	0	0	0	0
+SRA	SRP117084	pure bulk	8	0	0	12	0	0	8	0	0	0	0	0
+SRA	SRP125490	pure bulk	8	0	0	0	0	0	0	0	0	0	0	8
+SRA	SRP126562	pure bulk	8	0	0	0	0	8	0	0	0	0	0	0
+SRA	SRP127360	pure bulk	8	0	0	8	0	0	0	0	0	0	0	8
+SRA	SRP129026	bulk + single-cell	8	28	0	0	8	0	0	0	0	0	0	0
+SRA	SRP131100	pure bulk	8	0	0	0	0	0	8	0	0	0	0	0
+SRA	SRP136387	pure bulk	8	0	0	4	0	0	0	0	8	0	0	0
+SRA	SRP147277	pure bulk	8	0	0	0	0	0	0	0	0	0	0	8
+SRA	SRP148762	pure bulk	8	0	0	16	6	0	0	2	0	0	0	0
+SRA	SRP153231	pure bulk	8	0	0	0	0	8	0	0	0	0	0	0
+SRA	SRP157721	bulk + single-cell	8	6	0	0	0	0	0	8	0	0	0	0
+SRA	SRP159079	pure bulk	8	0	0	0	0	0	0	0	0	0	0	8
+SRA	SRP186168	pure bulk	8	0	0	46	0	0	0	0	0	0	0	8
+SRA	SRP191569	bulk + no prediction	8	0	8	0	0	8	0	0	0	0	0	0
+SRA	SRP202099	bulk + single-cell	8	4	0	0	0	0	8	0	0	0	0	0
+SRA	SRP218879	bulk + no prediction	8	0	1	0	0	8	0	0	0	0	0	0
+SRA	ERP115027	pure bulk	7	0	0	5	0	0	7	0	0	0	0	0
+SRA	SRP047192	bulk + single-cell	7	1	0	52	0	7	0	0	0	0	0	0
+SRA	SRP047232	bulk + single-cell	7	3	0	0	0	0	7	0	0	0	0	0
+SRA	SRP058383	pure bulk	7	0	0	0	0	0	0	0	0	0	0	7
+SRA	SRP066356	pure bulk	7	0	0	8	0	0	7	0	0	0	0	0
+SRA	SRP066966	bulk + single-cell + no prediction	7	12	1	0	0	0	0	0	0	0	0	7
+SRA	SRP095566	bulk + single-cell	7	5	0	0	0	0	0	0	0	0	7	0
+SRA	SRP103099	bulk + single-cell + no prediction	7	1	120	47	0	0	0	2	0	0	0	5
+SRA	SRP108859	pure bulk	7	0	0	0	0	0	0	7	0	0	0	0
+SRA	SRP109059	pure bulk	7	0	0	0	0	0	7	0	0	0	0	0
+SRA	SRP119122	bulk + single-cell + no prediction	7	9	13	0	0	0	0	0	0	0	0	7
+SRA	SRP123359	pure bulk	7	0	0	6	0	0	0	7	0	0	0	0
+SRA	SRP133767	pure bulk	7	0	0	11	0	0	0	0	0	0	0	7
+SRA	SRP155977	pure bulk	7	0	0	0	2	0	0	5	0	0	0	0
+SRA	SRP181044	bulk + single-cell	7	11	0	0	0	0	0	0	0	7	0	0
+SRA	SRP193262	bulk + no prediction	7	0	1	0	0	0	0	0	0	0	0	7
+SRA	ERP112536	bulk + single-cell + no prediction	6	2	2	36	0	6	0	0	0	0	0	0
+SRA	ERP112912	pure bulk	6	0	0	8	0	0	6	0	0	0	0	0
+SRA	SRP007885	pure bulk	6	0	0	0	0	0	6	0	0	0	0	0
+SRA	SRP009373	pure bulk	6	0	0	0	0	0	2	0	0	0	0	4
+SRA	SRP014856	pure bulk	6	0	0	0	0	0	6	0	0	0	0	0
+SRA	SRP015360	pure bulk	6	0	0	0	0	0	6	0	0	0	0	0
+SRA	SRP033696	pure bulk	6	0	0	0	0	0	0	0	0	0	0	6
+SRA	SRP040806	pure bulk	6	0	0	0	0	6	0	0	0	0	0	0
+SRA	SRP043033	pure bulk	6	0	0	14	0	0	6	0	0	0	0	0
+SRA	SRP044271	pure bulk	6	0	0	11	0	0	6	0	0	0	0	0
+SRA	SRP045154	pure bulk	6	0	0	0	0	0	0	6	0	0	0	0
+SRA	SRP045986	pure bulk	6	0	0	0	0	0	0	0	0	0	0	6
+SRA	SRP061372	bulk + single-cell + no prediction	6	1	1	0	0	0	0	0	0	1	0	5
+SRA	SRP063363	pure bulk	6	0	0	0	0	0	0	0	0	0	0	6
+SRA	SRP065848	pure bulk	6	0	0	0	0	0	0	0	0	0	0	6
+SRA	SRP073050	pure bulk	6	0	0	0	0	0	6	0	0	0	0	0
+SRA	SRP076773	pure bulk	6	0	0	0	0	0	6	0	0	0	0	0
+SRA	SRP076944	bulk + single-cell + no prediction	6	8	2	38	0	0	0	0	0	0	0	6
+SRA	SRP077011	pure bulk	6	0	0	0	0	0	0	6	0	0	0	0
+SRA	SRP081073	bulk + single-cell	6	3	0	0	6	0	0	0	0	0	0	0
+SRA	SRP091453	pure bulk	6	0	0	0	0	6	0	0	0	0	0	0
+SRA	SRP091556	bulk + single-cell	6	3	0	0	6	0	0	0	0	0	0	0
+SRA	SRP094118	pure bulk	6	0	0	18	0	0	0	6	0	0	0	0
+SRA	SRP100018	pure bulk	6	0	0	24	0	0	0	0	0	0	0	6
+SRA	SRP109666	bulk + single-cell + no prediction	6	6	19	0	0	0	0	0	0	0	0	6
+SRA	SRP114539	pure bulk	6	0	0	6	0	0	0	0	0	0	0	6
+SRA	SRP118363	pure bulk	6	0	0	0	0	0	0	0	0	0	0	6
+SRA	SRP120122	pure bulk	6	0	0	0	3	0	3	0	0	0	0	0
+SRA	SRP125125	bulk + single-cell	6	72	0	49	0	6	0	0	0	0	0	0
+SRA	SRP126659	pure bulk	6	0	0	0	0	0	6	0	0	0	0	0
+SRA	SRP127953	pure bulk	6	0	0	0	0	0	6	0	0	0	0	0
+SRA	SRP132998	pure bulk	6	0	0	0	0	0	0	0	0	0	0	6
+SRA	SRP136642	pure bulk	6	0	0	0	0	0	0	0	0	0	0	6
+SRA	SRP142249	pure bulk	6	0	0	0	0	0	0	6	0	0	0	0
+SRA	SRP147551	pure bulk	6	0	0	0	0	0	0	0	0	0	0	6
+SRA	SRP150351	bulk + single-cell + no prediction	6	36	8	0	0	1	5	0	0	0	0	0
+SRA	SRP150585	pure bulk	6	0	0	0	0	0	6	0	0	0	0	0
+SRA	SRP150954	pure bulk	6	0	0	0	0	0	0	0	0	0	0	6
+SRA	SRP152068	pure bulk	6	0	0	0	0	0	6	0	0	0	0	0
+SRA	SRP155245	pure bulk	6	0	0	0	0	0	0	0	0	6	0	0
+SRA	SRP155363	bulk + single-cell + no prediction	6	29	102	0	6	0	0	0	0	0	0	0
+SRA	SRP162455	pure bulk	6	0	0	0	0	6	0	0	0	0	0	0
+SRA	SRP173213	pure bulk	6	0	0	0	0	0	6	0	0	0	0	0
+SRA	SRP176458	bulk + single-cell + no prediction	6	3	3	0	0	0	6	0	0	0	0	0
+SRA	SRP179767	pure bulk	6	0	0	10	6	0	0	0	0	0	0	0
+SRA	SRP188994	bulk + single-cell + no prediction	6	22	2	0	6	0	0	0	0	0	0	0
+SRA	SRP191866	bulk + single-cell	6	3	0	0	6	0	0	0	0	0	0	0
+SRA	SRP192509	pure bulk	6	0	0	0	0	0	0	0	0	0	0	6
+SRA	SRP193315	pure bulk	6	0	0	0	0	0	0	0	0	0	0	6
+SRA	SRP194432	pure bulk	6	0	0	0	0	0	0	0	0	0	0	6
+SRA	SRP198243	bulk + single-cell + no prediction	6	7	7	24	0	6	0	0	0	0	0	0
+SRA	SRP198966	pure bulk	6	0	0	0	0	6	0	0	0	0	0	0
+SRA	SRP201447	pure bulk	6	0	0	0	0	0	0	6	0	0	0	0
+SRA	SRP215407	bulk + no prediction	6	0	1	0	0	6	0	0	0	0	0	0
+SRA	SRP223444	pure bulk	6	0	0	0	0	0	6	0	0	0	0	0
+SRA	ERP108602	pure bulk	5	0	0	1	0	5	0	0	0	0	0	0
+SRA	ERP109576	pure bulk	5	0	0	1	0	0	0	5	0	0	0	0
+SRA	SRP010644	bulk + single-cell	5	12	0	0	0	5	0	0	0	0	0	0
+SRA	SRP012015	bulk + single-cell	5	1	0	0	0	0	5	0	0	0	0	0
+SRA	SRP042623	bulk + single-cell + no prediction	5	5	6	0	5	0	0	0	0	0	0	0
+SRA	SRP055981	pure bulk	5	0	0	0	0	0	5	0	0	0	0	0
+SRA	SRP056404	pure bulk	5	0	0	0	0	0	5	0	0	0	0	0
+SRA	SRP059735	bulk + single-cell	5	7	0	0	0	0	0	0	0	0	0	5
+SRA	SRP060715	pure bulk	5	0	0	10	0	0	5	0	0	0	0	0
+SRA	SRP064149	bulk + single-cell	5	1	0	0	0	0	0	0	0	0	0	5
+SRA	SRP065146	bulk + single-cell	5	1	0	0	5	0	0	0	0	0	0	0
+SRA	SRP071860	bulk + no prediction	5	0	3	27	0	0	5	0	0	0	0	0
+SRA	SRP092452	bulk + single-cell + no prediction	5	2	5	0	0	0	0	0	0	0	0	5
+SRA	SRP099137	bulk + single-cell	5	23	0	0	0	0	0	5	0	0	0	0
+SRA	SRP115427	pure bulk	5	0	0	0	0	0	0	5	0	0	0	0
+SRA	SRP115557	bulk + single-cell	5	7	0	0	5	0	0	0	0	0	0	0
+SRA	SRP121475	bulk + no prediction	5	0	1	0	0	0	0	0	0	0	0	5
+SRA	SRP126899	bulk + single-cell	5	1	0	0	0	0	0	0	0	5	0	0
+SRA	SRP127783	pure bulk	5	0	0	0	2	0	0	3	0	0	0	0
+SRA	SRP131775	bulk + single-cell	5	15	0	9	5	0	0	0	0	0	0	0
+SRA	SRP132594	bulk + single-cell	5	3	0	21	0	0	5	0	0	0	0	0
+SRA	SRP152951	bulk + single-cell	5	3	0	0	0	5	0	0	0	0	0	0
+SRA	SRP153228	bulk + single-cell	5	7	0	0	5	0	0	0	0	0	0	0
+SRA	SRP154111	pure bulk	5	0	0	0	0	0	5	0	0	0	0	0
+SRA	SRP156295	bulk + no prediction	5	0	1	0	0	0	5	0	0	0	0	0
+SRA	SRP164659	pure bulk	5	0	0	0	0	0	5	0	0	0	0	0
+SRA	SRP182839	bulk + single-cell	5	9	0	0	0	0	0	0	0	0	0	5
+SRA	SRP185454	pure bulk	5	0	0	5	0	0	5	0	0	0	0	0
+SRA	SRP188969	pure bulk	5	0	0	0	0	0	5	0	0	0	0	0
+SRA	SRP189166	bulk + single-cell	5	3	0	0	0	5	0	0	0	0	0	0
+SRA	SRP194405	bulk + single-cell	5	6	0	0	5	0	0	0	0	0	0	0
+SRA	ERP020468	pure bulk	4	0	0	5	0	0	4	0	0	0	0	0
+SRA	ERP024526	bulk + no prediction	4	0	1	1	0	0	4	0	0	0	0	0
+SRA	SRP017580	pure bulk	4	0	0	0	0	4	0	0	0	0	0	0
+SRA	SRP047126	pure bulk	4	0	0	0	0	0	0	4	0	0	0	0
+SRA	SRP049462	pure bulk	4	0	0	0	0	0	4	0	0	0	0	0
+SRA	SRP053274	bulk + single-cell	4	2	0	0	0	0	0	0	0	0	0	4
+SRA	SRP057826	pure bulk	4	0	0	1	0	0	0	0	0	0	0	4
+SRA	SRP059530	pure bulk	4	0	0	0	3	0	0	0	0	0	0	1
+SRA	SRP060499	bulk + single-cell	4	4	0	0	0	0	4	0	0	0	0	0
+SRA	SRP061973	pure bulk	4	0	0	0	0	0	0	0	0	0	0	4
+SRA	SRP066415	bulk + no prediction	4	0	2	0	0	0	0	4	0	0	0	0
+SRA	SRP068708	pure bulk	4	0	0	0	0	0	0	0	0	0	0	4
+SRA	SRP069746	bulk + single-cell	4	2	0	0	0	0	0	0	0	0	0	4
+SRA	SRP072829	pure bulk	4	0	0	10	0	0	0	4	0	0	0	0
+SRA	SRP075585	pure bulk	4	0	0	0	0	0	4	0	0	0	0	0
+SRA	SRP077918	pure bulk	4	0	0	0	0	0	4	0	0	0	0	0
+SRA	SRP082314	pure bulk	4	0	0	0	0	0	0	0	0	0	0	4
+SRA	SRP082682	bulk + single-cell + no prediction	4	27	3	0	0	0	4	0	0	0	0	0
+SRA	SRP090223	bulk + single-cell + no prediction	4	1	2	0	0	0	0	0	0	0	0	4
+SRA	SRP090318	pure bulk	4	0	0	0	0	0	0	0	0	0	0	4
+SRA	SRP101669	pure bulk	4	0	0	0	0	0	4	0	0	0	0	0
+SRA	SRP102557	bulk + no prediction	4	0	19	0	0	0	0	0	0	0	0	4
+SRA	SRP109272	bulk + single-cell	4	8	0	0	0	0	0	0	0	0	0	4
+SRA	SRP109668	bulk + single-cell + no prediction	4	15	2	0	0	0	0	0	0	0	0	4
+SRA	SRP109786	bulk + single-cell + no prediction	4	3	7	0	0	0	0	0	0	0	0	4
+SRA	SRP109805	bulk + single-cell + no prediction	4	1	1	18	3	0	0	0	0	1	0	0
+SRA	SRP113558	bulk + single-cell + no prediction	4	46	5	0	4	0	0	0	0	0	0	0
+SRA	SRP114505	bulk + single-cell + no prediction	4	5	1	0	4	0	0	0	0	0	0	0
+SRA	SRP114703	pure bulk	4	0	0	4	4	0	0	0	0	0	0	0
+SRA	SRP114983	bulk + single-cell + no prediction	4	1	1	0	0	0	0	0	0	0	0	4
+SRA	SRP130149	bulk + single-cell	4	11	0	0	0	0	0	0	0	4	0	0
+SRA	SRP130768	bulk + single-cell	4	8	0	24	0	0	0	0	0	0	0	4
+SRA	SRP134072	pure bulk	4	0	0	0	0	0	0	4	0	0	0	0
+SRA	SRP149665	pure bulk	4	0	0	0	0	0	4	0	0	0	0	0
+SRA	SRP150508	pure bulk	4	0	0	0	0	0	0	4	0	0	0	0
+SRA	SRP151147	bulk + single-cell + no prediction	4	50	2	0	0	0	0	4	0	0	0	0
+SRA	SRP155217	bulk + single-cell	4	204	0	0	0	0	4	0	0	0	0	0
+SRA	SRP155883	bulk + single-cell + no prediction	4	1	3	0	4	0	0	0	0	0	0	0
+SRA	SRP157958	pure bulk	4	0	0	4	0	0	0	4	0	0	0	0
+SRA	SRP159024	pure bulk	4	0	0	0	0	0	0	4	0	0	0	0
+SRA	SRP166328	bulk + no prediction	4	0	5	0	4	0	0	0	0	0	0	0
+SRA	SRP169819	bulk + single-cell	4	2	0	0	0	0	0	0	0	0	0	4
+SRA	SRP173282	bulk + no prediction	4	0	11	0	0	0	0	4	0	0	0	0
+SRA	SRP173428	bulk + single-cell	4	2	0	0	4	0	0	0	0	0	0	0
+SRA	SRP185799	pure bulk	4	0	0	0	0	0	0	0	0	0	0	4
+SRA	SRP188498	pure bulk	4	0	0	0	0	0	0	0	0	0	0	4
+SRA	SRP190176	pure bulk	4	0	0	0	0	0	0	0	0	0	0	4
+SRA	SRP192764	bulk + no prediction	4	0	8	0	0	4	0	0	0	0	0	0
+SRA	SRP193260	pure bulk	4	0	0	0	0	0	0	0	0	0	0	4
+SRA	SRP198410	bulk + no prediction	4	0	16	0	0	0	0	0	0	0	0	4
+SRA	SRP200279	pure bulk	4	0	0	12	0	0	4	0	0	0	0	0
+SRA	SRP211963	pure bulk	4	0	0	15	0	0	0	4	0	0	0	0
+SRA	ERP021667	pure bulk	3	0	0	21	0	0	3	0	0	0	0	0
+SRA	ERP022260	bulk + single-cell	3	9	0	10	0	0	3	0	0	0	0	0
+SRA	ERP022441	bulk + single-cell	3	3	0	2	0	0	3	0	0	0	0	0
+SRA	ERP024280	pure bulk	3	0	0	1	0	3	0	0	0	0	0	0
+SRA	ERP104908	pure bulk	3	0	0	9	0	0	3	0	0	0	0	0
+SRA	ERP110211	pure bulk	3	0	0	3	0	0	3	0	0	0	0	0
+SRA	ERP111466	pure bulk	3	0	0	5	0	0	3	0	0	0	0	0
+SRA	SRP007569	pure bulk	3	0	0	0	0	0	3	0	0	0	0	0
+SRA	SRP050333	pure bulk	3	0	0	5	0	3	0	0	0	0	0	0
+SRA	SRP056159	pure bulk	3	0	0	0	0	0	3	0	0	0	0	0
+SRA	SRP057322	pure bulk	3	0	0	0	0	0	0	0	0	3	0	0
+SRA	SRP058000	pure bulk	3	0	0	6	0	0	0	3	0	0	0	0
+SRA	SRP058719	bulk + single-cell	3	5	0	12	0	0	0	3	0	0	0	0
+SRA	SRP062417	pure bulk	3	0	0	0	0	0	0	3	0	0	0	0
+SRA	SRP062979	pure bulk	3	0	0	0	0	0	0	0	0	0	0	3
+SRA	SRP066947	bulk + single-cell	3	3	0	18	0	0	0	0	3	0	0	0
+SRA	SRP068803	pure bulk	3	0	0	12	0	0	0	0	0	0	0	3
+SRA	SRP070548	bulk + single-cell + no prediction	3	1	2	0	0	3	0	0	0	0	0	0
+SRA	SRP072835	bulk + single-cell + no prediction	3	1	1	3	0	0	0	3	0	0	0	0
+SRA	SRP074061	pure bulk	3	0	0	0	0	3	0	0	0	0	0	0
+SRA	SRP089880	pure bulk	3	0	0	15	0	0	3	0	0	0	0	0
+SRA	SRP092074	bulk + single-cell	3	5	0	0	0	0	3	0	0	0	0	0
+SRA	SRP093608	pure bulk	3	0	0	0	0	0	3	0	0	0	0	0
+SRA	SRP096209	pure bulk	3	0	0	0	0	0	0	0	0	0	0	3
+SRA	SRP096368	pure bulk	3	0	0	0	0	0	0	0	0	0	0	3
+SRA	SRP099823	bulk + no prediction	3	0	3	0	0	0	0	0	3	0	0	0
+SRA	SRP101697	pure bulk	3	0	0	0	0	0	0	0	0	0	0	3
+SRA	SRP108449	bulk + single-cell + no prediction	3	1	1	1	0	0	0	0	0	0	0	3
+SRA	SRP109284	bulk + single-cell + no prediction	3	1	2	0	0	0	0	3	0	0	0	0
+SRA	SRP110832	bulk + single-cell	3	2	0	0	3	0	0	0	0	0	0	0
+SRA	SRP113157	pure bulk	3	0	0	0	0	3	0	0	0	0	0	0
+SRA	SRP115429	bulk + single-cell	3	1	0	0	0	0	0	0	0	0	0	3
+SRA	SRP119348	pure bulk	3	0	0	0	2	0	0	1	0	0	0	0
+SRA	SRP120476	pure bulk	3	0	0	3	0	0	0	3	0	0	0	0
+SRA	SRP124893	pure bulk	3	0	0	3	0	0	3	0	0	0	0	0
+SRA	SRP125175	bulk + no prediction	3	0	3	0	0	0	0	0	0	0	0	3
+SRA	SRP126680	bulk + single-cell	3	2	0	0	0	0	3	0	0	0	0	0
+SRA	SRP127642	bulk + no prediction	3	0	1	0	3	0	0	0	0	0	0	0
+SRA	SRP132513	pure bulk	3	0	0	0	0	0	0	3	0	0	0	0
+SRA	SRP132791	pure bulk	3	0	0	0	0	0	0	3	0	0	0	0
+SRA	SRP135716	bulk + single-cell + no prediction	3	4	1	0	0	0	0	0	0	0	0	3
+SRA	SRP137826	bulk + single-cell	3	21	0	14	0	0	3	0	0	0	0	0
+SRA	SRP140531	pure bulk	3	0	0	3	0	0	3	0	0	0	0	0
+SRA	SRP147456	bulk + no prediction	3	0	3	0	0	0	0	0	0	0	0	3
+SRA	SRP154382	pure bulk	3	0	0	6	0	0	0	0	3	0	0	0
+SRA	SRP154566	bulk + single-cell	3	1	0	0	0	0	0	0	0	3	0	0
+SRA	SRP158502	bulk + single-cell	3	3	0	0	0	3	0	0	0	0	0	0
+SRA	SRP161443	pure bulk	3	0	0	5	0	0	0	3	0	0	0	0
+SRA	SRP168154	pure bulk	3	0	0	0	0	0	0	0	0	0	0	3
+SRA	SRP185956	bulk + single-cell + no prediction	3	2	1	0	3	0	0	0	0	0	0	0
+SRA	SRP188999	bulk + single-cell	3	9	0	12	0	0	0	0	0	0	0	3
+SRA	SRP198242	bulk + single-cell + no prediction	3	1	41	0	0	0	0	0	0	0	0	3
+SRA	SRP221541	bulk + single-cell + no prediction	3	1	1	0	0	3	0	0	0	0	0	0
+SRA	DRP005114	bulk + single-cell	2	2	0	0	0	0	0	2	0	0	0	0
+SRA	ERP020771	bulk + single-cell + no prediction	2	5	6	11	0	0	2	0	0	0	0	0
+SRA	ERP109252	bulk + no prediction	2	0	1	9	0	0	2	0	0	0	0	0
+SRA	ERP114127	bulk + no prediction	2	0	28	6	0	0	2	0	0	0	0	0
+SRA	SRP009105	pure bulk	2	0	0	0	0	0	2	0	0	0	0	0
+SRA	SRP017465	pure bulk	2	0	0	21	0	0	0	2	0	0	0	0
+SRA	SRP018028	bulk + single-cell	2	1	0	0	0	0	0	2	0	0	0	0
+SRA	SRP027508	pure bulk	2	0	0	0	0	2	0	0	0	0	0	0
+SRA	SRP035679	pure bulk	2	0	0	0	0	0	0	0	0	0	0	2
+SRA	SRP037735	pure bulk	2	0	0	0	0	0	2	0	0	0	0	0
+SRA	SRP038761	bulk + single-cell	2	1	0	0	0	0	2	0	0	0	0	0
+SRA	SRP044593	bulk + single-cell	2	2	0	0	0	0	2	0	0	0	0	0
+SRA	SRP048889	pure bulk	2	0	0	6	0	0	0	2	0	0	0	0
+SRA	SRP055103	bulk + no prediction	2	0	4	0	0	0	0	2	0	0	0	0
+SRA	SRP055180	bulk + single-cell + no prediction	2	3	10	0	0	0	0	2	0	0	0	0
+SRA	SRP055675	bulk + single-cell	2	9	0	0	0	2	0	0	0	0	0	0
+SRA	SRP056074	pure bulk	2	0	0	4	0	0	0	0	0	0	0	2
+SRA	SRP057017	bulk + single-cell	2	9	0	0	0	0	0	2	0	0	0	0
+SRA	SRP059268	pure bulk	2	0	0	22	0	2	0	0	0	0	0	0
+SRA	SRP059555	pure bulk	2	0	0	4	0	0	0	0	0	0	0	2
+SRA	SRP061835	pure bulk	2	0	0	0	0	0	0	2	0	0	0	0
+SRA	SRP062025	bulk + single-cell	2	71	0	0	0	0	0	2	0	0	0	0
+SRA	SRP063416	pure bulk	2	0	0	5	0	0	0	0	0	0	0	2
+SRA	SRP064378	bulk + single-cell + no prediction	2	2	19	0	0	0	0	1	0	1	0	0
+SRA	SRP065988	pure bulk	2	0	0	0	0	0	2	0	0	0	0	0
+SRA	SRP066152	pure bulk	2	0	0	2	0	0	2	0	0	0	0	0
+SRA	SRP070180	pure bulk	2	0	0	0	0	0	0	2	0	0	0	0
+SRA	SRP070776	bulk + single-cell	2	26	0	0	0	2	0	0	0	0	0	0
+SRA	SRP070996	pure bulk	2	0	0	0	0	0	0	2	0	0	0	0
+SRA	SRP072090	pure bulk	2	0	0	0	0	0	0	0	0	0	0	2
+SRA	SRP073267	pure bulk	2	0	0	56	2	0	0	0	0	0	0	0
+SRA	SRP083126	pure bulk	2	0	0	0	0	0	0	0	0	0	0	2
+SRA	SRP083758	pure bulk	2	0	0	4	0	0	2	0	0	0	0	0
+SRA	SRP090674	bulk + single-cell + no prediction	2	422	34	0	0	2	0	0	0	0	0	0
+SRA	SRP091948	pure bulk	2	0	0	6	2	0	0	0	0	0	0	0
+SRA	SRP097671	bulk + no prediction	2	0	2	0	2	0	0	0	0	0	0	0
+SRA	SRP099688	bulk + single-cell + no prediction	2	3	3	0	0	0	2	0	0	0	0	0
+SRA	SRP101422	pure bulk	2	0	0	0	0	0	0	0	0	0	0	2
+SRA	SRP117184	bulk + single-cell	2	10	0	0	0	0	2	0	0	0	0	0
+SRA	SRP117785	bulk + single-cell + no prediction	2	10	8	0	0	0	0	0	0	0	0	2
+SRA	SRP118056	bulk + no prediction	2	0	2	0	2	0	0	0	0	0	0	0
+SRA	SRP119274	bulk + no prediction	2	0	2	0	2	0	0	0	0	0	0	0
+SRA	SRP121666	bulk + single-cell	2	9	0	0	2	0	0	0	0	0	0	0
+SRA	SRP127569	pure bulk	2	0	0	0	0	0	0	0	0	0	0	2
+SRA	SRP132830	bulk + single-cell	2	4	0	98	0	2	0	0	0	0	0	0
+SRA	SRP133497	bulk + single-cell	2	1	0	0	0	0	0	0	0	0	0	2
+SRA	SRP143521	pure bulk	2	0	0	4	2	0	0	0	0	0	0	0
+SRA	SRP148803	pure bulk	2	0	0	0	0	0	2	0	0	0	0	0
+SRA	SRP149638	bulk + single-cell + no prediction	2	8	1	0	0	0	0	0	0	0	0	2
+SRA	SRP150419	bulk + single-cell	2	82	0	0	2	0	0	0	0	0	0	0
+SRA	SRP153925	pure bulk	2	0	0	3	0	0	2	0	0	0	0	0
+SRA	SRP156583	bulk + single-cell + no prediction	2	255	10	0	0	0	2	0	0	0	0	0
+SRA	SRP162524	pure bulk	2	0	0	10	0	0	0	2	0	0	0	0
+SRA	SRP163470	bulk + single-cell + no prediction	2	3	3	0	2	0	0	0	0	0	0	0
+SRA	SRP171150	bulk + single-cell	2	1	0	21	0	0	0	2	0	0	0	0
+SRA	SRP173381	bulk + single-cell	2	16	0	0	0	2	0	0	0	0	0	0
+SRA	SRP173953	pure bulk	2	0	0	2	0	0	2	0	0	0	0	0
+SRA	SRP186278	bulk + no prediction	2	0	4	0	0	0	2	0	0	0	0	0
+SRA	SRP189885	pure bulk	2	0	0	20	0	0	0	2	0	0	0	0
+SRA	SRP190620	pure bulk	2	0	0	0	0	0	0	0	0	0	0	2
+SRA	SRP217777	pure bulk	2	0	0	0	0	0	0	0	0	0	0	2
+SRA	SRP217789	pure bulk	2	0	0	0	0	0	0	0	0	0	0	2
+SRA	ERP023811	pure bulk	1	0	0	2	0	0	0	0	0	0	0	1
+SRA	ERP105150	pure bulk	1	0	0	6	0	0	1	0	0	0	0	0
+SRA	ERP106519	bulk + single-cell	1	4	0	13	0	0	1	0	0	0	0	0
+SRA	ERP108389	bulk + no prediction	1	0	1	6	0	0	1	0	0	0	0	0
+SRA	SRP007338	pure bulk	1	0	0	15	0	0	1	0	0	0	0	0
+SRA	SRP011486	pure bulk	1	0	0	0	0	0	0	0	0	0	0	1
+SRA	SRP014540	pure bulk	1	0	0	0	0	0	0	0	0	0	0	1
+SRA	SRP028118	pure bulk	1	0	0	4	0	0	0	0	0	0	0	1
+SRA	SRP029888	bulk + no prediction	1	0	1	5	0	0	0	0	0	0	0	1
+SRA	SRP036136	pure bulk	1	0	0	0	0	0	1	0	0	0	0	0
+SRA	SRP046293	bulk + single-cell	1	2	0	0	1	0	0	0	0	0	0	0
+SRA	SRP049669	bulk + single-cell + no prediction	1	32	1	0	0	0	0	0	0	0	0	1
+SRA	SRP051675	pure bulk	1	0	0	0	0	0	0	0	0	0	0	1
+SRA	SRP055916	pure bulk	1	0	0	4	0	0	0	1	0	0	0	0
+SRA	SRP055967	bulk + single-cell	1	3	0	6	0	0	0	1	0	0	0	0
+SRA	SRP062099	bulk + single-cell	1	7	0	0	1	0	0	0	0	0	0	0
+SRA	SRP062444	pure bulk	1	0	0	14	0	0	1	0	0	0	0	0
+SRA	SRP062910	bulk + single-cell + no prediction	1	3	2	0	1	0	0	0	0	0	0	0
+SRA	SRP064329	bulk + no prediction	1	0	5	16	1	0	0	0	0	0	0	0
+SRA	SRP064956	bulk + single-cell	1	1	0	2	0	0	0	0	1	0	0	0
+SRA	SRP065930	pure bulk	1	0	0	0	0	0	0	0	0	0	0	1
+SRA	SRP066484	bulk + single-cell	1	1	0	0	0	1	0	0	0	0	0	0
+SRA	SRP068772	pure bulk	1	0	0	4	0	0	0	0	0	0	0	1
+SRA	SRP068953	pure bulk	1	0	0	0	0	0	0	0	0	0	0	1
+SRA	SRP071837	bulk + single-cell	1	17	0	0	0	0	0	0	0	0	0	1
+SRA	SRP072024	pure bulk	1	0	0	8	1	0	0	0	0	0	0	0
+SRA	SRP073022	bulk + single-cell	1	6	0	0	0	0	1	0	0	0	0	0
+SRA	SRP075273	bulk + single-cell	1	2	0	3	0	0	0	1	0	0	0	0
+SRA	SRP077529	bulk + no prediction	1	0	23	0	0	1	0	0	0	0	0	0
+SRA	SRP078515	bulk + single-cell	1	1	0	76	1	0	0	0	0	0	0	0
+SRA	SRP079879	pure bulk	1	0	0	18	1	0	0	0	0	0	0	0
+SRA	SRP090509	bulk + single-cell + no prediction	1	8	1	0	0	0	1	0	0	0	0	0
+SRA	SRP099016	pure bulk	1	0	0	12	0	0	0	0	0	0	0	1
+SRA	SRP101844	bulk + no prediction	1	0	1	0	0	0	0	0	0	0	0	1
+SRA	SRP108920	pure bulk	1	0	0	0	0	0	0	0	0	0	0	1
+SRA	SRP116312	bulk + single-cell	1	11	0	0	0	0	1	0	0	0	0	0
+SRA	SRP117167	bulk + single-cell	1	55	0	0	0	1	0	0	0	0	0	0
+SRA	SRP119686	pure bulk	1	0	0	6	0	0	0	1	0	0	0	0
+SRA	SRP119821	pure bulk	1	0	0	0	0	0	0	0	0	0	0	1
+SRA	SRP123108	pure bulk	1	0	0	9	0	0	1	0	0	0	0	0
+SRA	SRP125662	pure bulk	1	0	0	1	0	0	0	0	0	0	0	1
+SRA	SRP127017	pure bulk	1	0	0	0	0	0	0	1	0	0	0	0
+SRA	SRP127169	pure bulk	1	0	0	39	0	0	0	0	0	0	0	1
+SRA	SRP132740	bulk + single-cell	1	12	0	0	0	1	0	0	0	0	0	0
+SRA	SRP133849	bulk + single-cell	1	23	0	0	0	1	0	0	0	0	0	0
+SRA	SRP135788	bulk + single-cell + no prediction	1	7	41	0	0	0	1	0	0	0	0	0
+SRA	SRP144355	pure bulk	1	0	0	142	0	0	0	0	0	0	0	1
+SRA	SRP148895	pure bulk	1	0	0	20	0	0	1	0	0	0	0	0
+SRA	SRP150657	bulk + single-cell + no prediction	1	6	1	43	0	0	1	0	0	0	0	0
+SRA	SRP155087	pure bulk	1	0	0	0	0	0	0	1	0	0	0	0
+SRA	SRP155458	pure bulk	1	0	0	0	0	0	0	1	0	0	0	0
+SRA	SRP187304	pure bulk	1	0	0	9	0	0	0	0	0	0	0	1
+SRA	SRP188993	bulk + single-cell + no prediction	1	4	1	0	0	0	0	1	0	0	0	0
+SRA	SRP192607	bulk + single-cell	1	355	0	0	0	0	1	0	0	0	0	0
+SRA	SRP201769	bulk + no prediction	1	0	18	0	1	0	0	0	0	0	0	0
+SRA	SRP211941	bulk + single-cell + no prediction	1	5	7	0	0	1	0	0	0	0	0	0
+SRA	SRP221669	bulk + single-cell + no prediction	1	1	1	0	0	1	0	0	0	0	0	0
